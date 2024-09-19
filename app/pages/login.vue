@@ -33,13 +33,13 @@ definePageMeta({
                 href="/forgot-password"
                 class="ml-auto inline-block text-sm underline"
               >
-                Forgot your password?
+                Mot de passe oublié
               </a>
             </div>
             <Input id="password" type="password" required />
           </div>
           <Button type="submit" class="w-full">
-            Login
+            Se connecter
           </Button>
           <Button variant="outline" class="w-full">
             Login with Google
@@ -48,7 +48,7 @@ definePageMeta({
         <div class="mt-4 text-center text-sm">
           Don't have an account?
           <a href="#" class="underline">
-            Sign up
+            Se connecter
           </a>
         </div>
       </div>
