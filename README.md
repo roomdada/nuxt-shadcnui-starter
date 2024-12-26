@@ -99,3 +99,4 @@ All credits go to these open-source works and resources
 ## License
 
 Licensed under the [MIT license](LICENSE).
+# nuxt-shadcnui-starter
